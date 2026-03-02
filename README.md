@@ -10,7 +10,7 @@ The SHL Assessment Recommender helps HR professionals and recruiters find the mo
 
 The following diagram illustrates the architecture of the SHL Assessment Recommender system:
 
-![System Architecture](image/diagram.png)
+![System Architecture](diagram.png)
 
 ## Features 🌟
 
